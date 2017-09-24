@@ -85,7 +85,7 @@
                 android:layout_height="wrap_content"
                 android:text="注 册"
                 android:textSize="30px"
-                android:textColor="sss"
+                android:textColor="ssssss"
                 />
 
         </TableRow>
